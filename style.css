@@ -1,1 +1,35 @@
-background-color{background-}
+body{
+    font-family: 'Aclonica', sans-serif;
+    margin: 0%;
+}
+section{
+    height: 8000px;
+    width: 1500px;
+}
+h1{
+    font-size: 50px;
+}
+
+.background{
+    background-image: url(Image/header-bg.png);
+    background-repeat: no-repeat;
+}
+.background2{
+    background-image: url(Image/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    height-position:center;
+}
+.half-width img{
+    padding-top: 100px;
+    padding-left: 60px;
+    width: 100%;
+}
+.mark{
+    color: palevioletred;
+}
