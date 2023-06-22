@@ -3,8 +3,7 @@ body{
     margin: 0%;
 }
 section{
-    height: 8000px;
-    width: 1500px;
+    height: 500px;
 }
 h1{
     font-size: 50px;
@@ -24,12 +23,25 @@ h1{
     margin-left: 5%;
     padding-left: 2%;
     height-position:center;
+    margin: auto;
+    padding: 10px;
 }
 .half-width img{
     padding-top: 100px;
     padding-left: 60px;
     width: 100%;
+    margin: auto;
+  width: 85%;
+  padding: 10px;
 }
 .mark{
     color: palevioletred;
+}
+.button{
+    background-image: linear-gradient(45deg, rgb(34, 135, 230), rgb(53, 228, 219));
+    text-decoration: none;
+    border-color:skyblue ;
+    padding: 10px 20px;
+    border-radius: white;
+    font-weight: 700;
 }
